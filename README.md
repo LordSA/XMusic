@@ -26,7 +26,7 @@
 
 ### 💜 Heroku
 
-[![Deploy]([https://heroku.com/deploy](https://telegram.dog/XTZ_HerokuBot?start=TG9yZFNBL1hNdXNpYyBtYXN0ZXI))
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=TG9yZFNBL1hNdXNpYyBtYXN0ZXI))
 
 Get pyrogram (p)  `SESSION` from here:
 
